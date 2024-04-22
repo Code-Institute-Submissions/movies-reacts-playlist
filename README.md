@@ -1,39 +1,59 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Korean Movie Reacts Playlist Website
 
-Welcome,
+## 1 Purpose of the Project
+The Korean Movie Reacts Playlist Website is designed to provide fans of Korean cinema a unique experience where they can watch and interact with video reactions to popular Korean movies. The project aims to foster a community of enthusiasts who share a passion for the depth, emotion, and artistry of Korean films.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## 2 User Stories
+- **As a user, I want to:** view a selection of video reactions to Korean movies so that I can see different perspectives and enhance my viewing experience.
+- **As a user, I want to:** navigate between different reaction videos easily to explore various content without hassle.
+- **As a user, I want to:** play, pause, and skip through videos so that I have complete control over the viewing experience.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+## 3 Features
+- **Video Playback:** Users can watch video reactions through an embedded video player.
+- **Navigation Controls:** Play, pause, skip, and rewind functionalities are provided to control video playback.
+- **Responsive Design:** Ensures a seamless viewing experience on devices of various sizes.
 
-## Codeanywhere Reminders
+## 4 Future Features
+- **Search Functionality:** Allowing users to search for specific movie reactions.
+- **Comment System:** Users can leave comments on videos to discuss the content with others.
+- **User Accounts and Playlists:** Ability for users to create accounts and curate their own playlists of favorite reactions.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## 5 Typography and Color Scheme
+- **Typography:** The website uses modern and easily readable fonts such as 'Roboto' for body text and 'Montserrat' for headings.
+- **Color Scheme:** A sleek and minimalist color palette featuring shades of black, gray, and white, with red as an accent color to evoke excitement.
 
-`python3 -m http.server`
+## 6 Wireframes
+Wireframes for the project are available in the repository, detailing the layout and design of the homepage, video page, and other key interfaces.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## 7 Technology
+- **HTML:** For structuring the web content.
+- **CSS:** For styling the content.
+- **JavaScript:** For interactive elements such as video controls.
+- **FontAwesome:** For icons used across the website.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## 8 Testing
+### 8.1 Code Validation
+- **HTML:** Validated using W3C Markup Validation Service.
+- **CSS:** Validated using W3C CSS Validation Service.
+- **JavaScript:** Validated and linted with ESLint.
 
-`http_server`
+### 8.2 Test Cases
+- **User Story Testing:** Each user story is tested to ensure it meets its acceptance criteria. Screenshots of these tests are included in the repository.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### 8.3 Fixed Bugs
+- **Video Playback Issue:** Initially, some videos were not loading properly; this was fixed by updating the video file paths.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### 8.4 Supported Screens and Browsers
+- **Screens:** Responsive design tested on mobile, tablet, and desktop screens.
+- **Browsers:** Fully compatible with Chrome, Firefox, Safari, and Edge.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## 9 Deployment
+### 9.1 Via GitPod
+- Code was written and committed using GitPod, then pushed to the GitHub repository.
+### 9.2 Via GitHub Pages
+- The website is hosted directly from the GitHub repository and is accessible via GitHub Pages.
 
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+## 10 Credits
+- **Video Content:** All video reactions are used under license or with permission.
+- **Icons:** Provided by FontAwesome.
+- **Inspiration:** The project was inspired by the vibrant community of Korean movie enthusiasts worldwide.
