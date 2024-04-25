@@ -121,7 +121,28 @@ The features wireframe outlines specific functionalities and user interactions w
 ### 9.2 Via GitHub Pages
 - The website is hosted directly from the GitHub repository and is accessible via GitHub Pages.
 
-## 10 Credits
-- **Video Content:** All video reactions are used under license or with permission.
-- **Icons:** Provided by FontAwesome.
-- **Inspiration:** The project was inspired by the vibrant community of Korean movie enthusiasts worldwide.
+## 10 ### Credits
+
+
+These YouTube channels provided the engaging and insightful video reactions that enhance the viewing experience on the Korean Movie Reacts website. Their content adds value to the project and contributes to its success.
+
+#### Video Content:
+- All video reactions are used under license or with permission.
+
+#### Icons:
+- Icons provided by FontAwesome.
+
+#### Inspiration:
+The project was inspired by the vibrant community of Korean movie enthusiasts worldwide.
+We also drew inspiration from the Basic String and Array Methods by Building a Music Player project on FreeCamp Code
+
+#### YouTube Channels Used:
+1. **CineTofu**
+   - Midnight Runners 청년경찰 Movie Reaction!
+   - Extreme Job 극한직업 Took Us Out! | Hilarious Korean Movie Reaction!
+
+2. **Bros N' Shows**
+   - We all finally watched *THE GANGSTER, THE COP, THE DEVIL* Movie REACTION
+
+3. **OB Dave Reacts**
+   - Korean SF Sniper visits a US Gun Store REACTION
