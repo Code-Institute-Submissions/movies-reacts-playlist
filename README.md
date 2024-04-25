@@ -94,25 +94,28 @@ The features wireframe outlines specific functionalities and user interactions w
 ## 8 Testing
 ### 8.1 Code Validation
 - **HTML:** Validated using W3C Markup Validation Service.
-  W3C HTML Validator : 51 wornings found.
+  W3C HTML Validator used : 51 warnings found.
   
   ![image](https://github.com/arcadejk/movies-reacts-playlist/assets/157130011/c097c3a0-314a-48a8-8ac4-63d34cab1816)
 
   
 - **CSS:** Validated using W3C CSS Validation Service.
-  W3C CSS Validator (Jigsaw) : 
+  W3C CSS Validator (Jigsaw) used 
   
 - **JavaScript:** Validated and linted with ESLint.
-  JSHint JavaScript Validator : 
+  JSHint JavaScript Validator used
 
 ### 8.2 Test Cases:
 ## Clicking on Links and Watching Videos:
-Tested functionality by clicking on playlist items and ensuring corresponding videos play.
-Verified video playback across different browsers: Chrome, Firefox, Internet Explorer.
+- Tested functionality by clicking on playlist items and ensuring corresponding videos play.
+- Verified video playback across different browsers: Chrome, Firefox, Internet Explorer.
 ## Feature Readability and Understandability:
-Confirmed that all features are clearly labeled and understandable by testing them in various scenarios.
+- Confirmed that all features are clearly labeled and understandable by testing them in various scenarios.
 ## Color and Font Accessibility:
-Ensured that colors and fonts chosen are easy to read and accessible by running the website through Lighthouse in DevTools.
+- Ensured that colors and fonts chosen are easy to read and accessible by running the website through Lighthouse in DevTools.
+
+![image](https://github.com/arcadejk/movies-reacts-playlist/assets/157130011/a69e27e0-78d7-4b6f-ac7f-94ae57479a2b)
+
 
 ### 8.3 Fixed Bugs
 - **Video Playback Issue:** Initially, some videos were not loading properly; this was fixed by updating the video file paths.
@@ -127,10 +130,12 @@ Ensured that colors and fonts chosen are easy to read and accessible by running 
 ### 9.2 Via GitHub Pages
 - The website is hosted directly from the GitHub repository and is accessible via GitHub Pages.
 
+  https://github.com/arcadejk/movies-reacts-playlist.git
+  
+
 ## 10 ### Credits
 
-
-These YouTube channels provided the engaging and insightful video reactions that enhance the viewing experience on the Korean Movie Reacts website. Their content adds value to the project and contributes to its success.
+The YouTube channels provided the engaging and insightful video reactions that enhance the viewing experience on the Korean Movie Reacts website. Their content adds value to the project and contributes to its success.
 
 #### Video Content:
 - All video reactions are used under license or with permission.
