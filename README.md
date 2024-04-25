@@ -105,8 +105,14 @@ The features wireframe outlines specific functionalities and user interactions w
 - **JavaScript:** Validated and linted with ESLint.
   JSHint JavaScript Validator : 
 
-### 8.2 Test Cases
-- **User Story Testing:** Each user story is tested to ensure it meets its acceptance criteria. Screenshots of these tests are included in the repository.
+### 8.2 Test Cases:
+## Clicking on Links and Watching Videos:
+Tested functionality by clicking on playlist items and ensuring corresponding videos play.
+Verified video playback across different browsers: Chrome, Firefox, Internet Explorer.
+## Feature Readability and Understandability:
+Confirmed that all features are clearly labeled and understandable by testing them in various scenarios.
+## Color and Font Accessibility:
+Ensured that colors and fonts chosen are easy to read and accessible by running the website through Lighthouse in DevTools.
 
 ### 8.3 Fixed Bugs
 - **Video Playback Issue:** Initially, some videos were not loading properly; this was fixed by updating the video file paths.
